@@ -114,10 +114,13 @@ button {
 */
 
 :root {
-  --discord-dark-1: #121212;
+  --discord-dark-main: #313338;
+  --discord-dark-channel-bar: #2b2d31;
+  --discord-dark-guild-bar: #1e1f22;
 }
 
 body {
-  background-color: var(--discord-dark-1);
+  background-color: var(--discord-dark-main);
   color: #FFFFFF;
+  
 }
